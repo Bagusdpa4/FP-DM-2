@@ -1,0 +1,4 @@
+- Dataset AGUSTUS.csv = Dataset mentah dari puskesmas wonoayu
+- Dataset Agustus_Balance.csv = Dataset balance untuk dimodelkan dan dideploy
+- EAS.ipynb = Pakai dataset mentah, Lalu jalankan program dari awal hingga selesai
+- EAS-DEPLOY.ipynb = Pakai dataset balance, Lalu dimodelkan dengan SVM, Lalu Di Deploy
